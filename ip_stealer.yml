@@ -1,2 +1,2 @@
-#ip_stealer
-ip stealer by duesti
+- foreach <server.online_players> as:ply:
+            - narrate '<[ply].name> - <[ply].ip_address>'
